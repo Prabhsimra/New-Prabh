@@ -1,6 +1,7 @@
 # Day 1 :
 ## Installing the linux
   **methods of installing the github:**
+
     1.VIRTUAL BOX METHOD
     2.DUEL BOOT METHOD
     **virtual box method:**
