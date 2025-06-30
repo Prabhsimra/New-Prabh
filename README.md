@@ -40,4 +40,23 @@ Steps to install VirtualBox:
 2. Click on **New** button.  
    ![Image of new button]
 3. Give it a name (like "Ubuntu").
-4. *(Continue with further steps if needed...)*
+4. select ISO file from folder.
+5. Click on finish button.
+> The linux is instal in virtual box
+
+
+### Duel Boot method
+
+
+> In this method , we are going to install in our PC . With the help of this method we can chose linux or window seperatly.
+```bash
+Dual-booting is a popular method to install Linux alongside an existing operating system, typically Windows, on the same computer. This allows you to choose which operating system to boot into when you start your computer.
+```
+**Step-by-Step Dual-Boot Installation:**
+1. **Download Linux ISO:**
+- Go to the official website [ubuntu](https://ubuntu.com).
+- Download the latest stable ISO image.##image of ubuntu.
+2. **Create a Bootable USB Drive:**
+- Download a tool like Rufus from [Rufus](www.rufus.com).
+- Open the rufus file.
+- Before starting rufus file insert the USB drive
