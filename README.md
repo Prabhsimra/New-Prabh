@@ -59,4 +59,7 @@ Dual-booting is a popular method to install Linux alongside an existing operatin
 2. **Create a Bootable USB Drive:**
 - Download a tool like Rufus from [Rufus](www.rufus.com).
 - Open the rufus file.
-- Before starting rufus file insert the USB drive
+- Before starting rufus file insert the USB drive.
+- When the rufus file is open, put the required information which is given below:
+- 
+
