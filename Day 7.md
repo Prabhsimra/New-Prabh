@@ -46,7 +46,7 @@
 * Pin 2 connects to Pin 2
 * Pin 3 connects to Pin 3
 * … and so on for all 8 pins.
-**image of straight throught cables**
+![](https://github.com/Prabhsimra/New-Prabh/blob/main/Screenshot%20from%202025-07-03%2014-36-33.png)
 **Common Use:**
 * Connecting a PC to a switch or hub
 * Connecting a switch to a router
