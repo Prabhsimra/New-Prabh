@@ -62,7 +62,7 @@
 * Pin 3 connects to Pin 1
 * Pin 6 connects to Pin 2
 * Pins 4, 5, 7, and 8 remain the same.
-**image of Crossover cables:**
+![](https://github.com/Prabhsimra/New-Prabh/blob/main/Screenshot%20from%202025-07-03%2014-37-20.png)
 
 **Common Use:**
 * Connecting two computers directly (without a switch)
