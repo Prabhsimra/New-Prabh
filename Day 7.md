@@ -6,7 +6,8 @@
 >RJ stands for Registered Jack, a standardized physical interface for connecting telecommunications devices.
 >The "45" part refers to the specific pinout and configuration used for the connector.RJ45" is essentially a standardized connector and socket for Ethernet cables.
 >>Ethernet cables that use RJ45 connectors are usually referred to as Cat5e, Cat6, Cat6a, or Cat7 cables, depending on their specifications. These cables are typically made with twisted-pair wiring (pairs of insulated copper wires twisted together to reduce interference).
-**image of rj45**
+
+![](Screenshot from 2025-07-03 14-04-48.png)
 
 **Features of an RJ45 Connector:**
 1. **Pins:**
