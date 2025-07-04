@@ -261,3 +261,15 @@ IP addresses (IPv4) are divided into **five classes** — A, B, C, D, and E — 
 - The addresses `127.x.x.x` are reserved for **loopback** (testing on your own machine).
 - Classful networking is mostly replaced by **CIDR** now, but understanding classes is still useful.
 
+
+# What Is Subnetting?
+> Subnetting (short for sub-networking) is the process of dividing a large IP network into smaller, more manageable subnetworks, called subnets.
+>
+
+**📌 Why Use Subnetting?**
+
+**Subnetting helps with:**
+* Improved network management: Smaller subnets are easier to monitor and control.
+* Efficient IP address allocation: Reduces waste of IP addresses.
+* Improved security: Traffic can be isolated between departments or regions.
+* Reduced congestion: Local traffic stays within the subnet, reducing overall load.
