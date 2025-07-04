@@ -58,3 +58,54 @@ For example, even if devices are physically connected in a star, data might flow
 | **Ring**  | Devices connected in a circular chain           | Token Ring networks              |
 | **Mesh**  | Devices interconnected directly with many others | Wireless mesh networks           |
 | **Tree**  | Hierarchical topology combining star and bus   | Large organizational networks   |
+
+
+# What is MAC address:
+>  MAC address (Media Access Control address) is a unique identifier assigned to a network interface card (NIC) for communications at the data link layer of a network.
+
+
+Key Points:
+* It’s used to identify devices on a local network (like your Wi-Fi).
+* Usually consists of 12 hexadecimal digits (e.g., 00:1A:2B:3C:4D:5E).
+* Often written in formats like 00-1A-2B-3C-4D-5E or 00:1A:2B:3C:4D:5E.
+* Assigned by the manufacturer of the network device and is typically burned into the hardware.
+
+# What is an IP Address?
+
+An **IP address** (Internet Protocol address) is a unique string of numbers (and sometimes letters) that identifies a device on a network. It allows devices to communicate with each other over the internet or a local network.
+
+---
+
+## Types of IP Addresses
+
+### 1. **IPv4 (Internet Protocol version 4)**
+- Format: Four sets of numbers separated by dots (e.g., `192.168.1.1`)
+- Each number ranges from 0 to 255
+- Most common form today
+
+### 2. **IPv6 (Internet Protocol version 6)**
+- Format: Eight groups of four hexadecimal digits (e.g., `2001:0db8:85a3:0000:0000:8a2e:0370:7334`)
+- Designed to replace IPv4 due to limited address space
+
+---
+
+## Categories of IP Addresses
+
+| Type           | Description                                             |
+|----------------|---------------------------------------------------------|
+| **Public IP**  | Used on the internet, assigned by ISPs                  |
+| **Private IP** | Used within private networks (like your home Wi-Fi)     |
+| **Static IP**  | Does not change; manually configured                    |
+| **Dynamic IP** | Changes periodically; assigned by DHCP servers          |
+
+---
+
+## Example
+
+If you're browsing the web from home:
+- Your **router** has a **public IP address** on the internet.
+- It assigns **private IP addresses** to your devices (like `192.168.0.101`).
+
+---
+
+> Would you like to check your IP address or learn how to find it?
