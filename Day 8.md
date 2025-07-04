@@ -180,7 +180,6 @@ ip addr show
 ```bash
 ifconfig
 ```
-##here
 * Note: You may need to install it first:
 
   ```bash
@@ -204,7 +203,7 @@ curl ipinfo.io/ip
 ```
 
 ---
-## image of ip address
+![](https://github.com/Prabhsimra/New-Prabh/blob/main/Screenshot%20from%202025-07-04%2015-20-56.png)
 
 # Classes in IP Address
 
