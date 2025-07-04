@@ -100,6 +100,7 @@ An **IP address** (Internet Protocol address) is a unique string of numbers (and
 
 ---
 
+![](https://github.com/Prabhsimra/New-Prabh/blob/main/Screenshot%20from%202025-07-04%2015-13-08.png)
 ## Example
 
 If you're browsing the web from home:
