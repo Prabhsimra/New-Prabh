@@ -266,3 +266,4 @@ IP addresses (IPv4) are divided into **five classes** — A, B, C, D, and E — 
 * Efficient IP address allocation: Reduces waste of IP addresses.
 * Improved security: Traffic can be isolated between departments or regions.
 * Reduced congestion: Local traffic stays within the subnet, reducing overall load.
+
