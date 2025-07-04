@@ -107,5 +107,38 @@ If you're browsing the web from home:
 - It assigns **private IP addresses** to your devices (like `192.168.0.101`).
 
 ---
+# 📡 IP Address and MAC Address Bit Lengths
 
-> Would you like to check your IP address or learn how to find it?
+---
+
+## 🔢 IP Address Bit Lengths
+
+| IP Version | Bits     | Description                                                   |
+|------------|----------|---------------------------------------------------------------|
+| **IPv4**   | 32 bits  | Written as 4 decimal numbers (e.g., `192.168.1.1`)            |
+| **IPv6**   | 128 bits | Written in 8 groups of 4 hexadecimal digits (e.g., `2001:0db8:85a3:...`) |
+
+- **IPv4** supports about **4.3 billion** unique addresses (`2^32`).
+- **IPv6** supports an extremely large number — **340 undecillion** addresses (`2^128`).
+
+---
+
+## 🎯 MAC Address Bit Length
+
+| Type    | Bits     | Description                                                             |
+|---------|----------|-------------------------------------------------------------------------|
+| **MAC** | 48 bits  | Uniquely identifies network hardware (e.g., `00:1A:2B:3C:4D:5E`)         |
+
+- MAC addresses are usually shown as **six pairs** of hexadecimal digits.
+- Assigned to a device's **network interface card (NIC)** by the manufacturer.
+
+---
+
+## 📝 Summary
+
+| Address Type | Bit Length |
+|--------------|------------|
+| **IPv4**     | 32 bits    |
+| **IPv6**     | 128 bits   |
+| **MAC**      | 48 bits    |
+
