@@ -11,7 +11,7 @@
 | Storage Area Network (SAN)   | Specialized network for data storage access             | Data centers               | Networked storage devices       |
 
 # how to connect computer networking:
-# Behind the Scenes of Connecting Two Devices
+**Behind the Scenes of Connecting Two Devices**
 
 1. **Physical Layer Connection**  
    - Devices connect via cables (Ethernet) or wirelessly (Wi-Fi, Bluetooth).  
@@ -37,3 +37,24 @@
 6. **Acknowledgments and Error Handling**  
    - Devices send acknowledgments to confirm successful data receipt.  
    - Lost or corrupted packets are retransmitted to ensure data integrity.
+# What is Topology in Computer Networking?
+> Topology refers to the physical or logical layout of how devices (computers, printers, routers, etc.) are connected in a network. It shows the arrangement or structure of the network, including how data flows between device
+# Types of Network Topology
+ Physical Topology
+
+ The actual physical layout of cables and devices.
+
+For example, how devices are physically connected with cables or wirelessly positioned.
+  Logical Topology
+
+How data flows through the network, regardless of the physical connections.
+
+For example, even if devices are physically connected in a star, data might flow in a ring pattern logically.
+
+| Topology  | Description                                   | Example                          |
+|-----------|-----------------------------------------------|---------------------------------|
+| **Bus**   | All devices connected to a single central cable | Early Ethernet networks          |
+| **Star**  | All devices connected to a central hub or switch | Most modern home or office networks |
+| **Ring**  | Devices connected in a circular chain           | Token Ring networks              |
+| **Mesh**  | Devices interconnected directly with many others | Wireless mesh networks           |
+| **Tree**  | Hierarchical topology combining star and bus   | Large organizational networks   |
