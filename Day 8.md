@@ -39,17 +39,9 @@
    - Lost or corrupted packets are retransmitted to ensure data integrity.
 # What is Topology in Computer Networking?
 > Topology refers to the physical or logical layout of how devices (computers, printers, routers, etc.) are connected in a network. It shows the arrangement or structure of the network, including how data flows between device
+
 # Types of Network Topology
- Physical Topology
 
- The actual physical layout of cables and devices.
-
-For example, how devices are physically connected with cables or wirelessly positioned.
-  Logical Topology
-
-How data flows through the network, regardless of the physical connections.
-
-For example, even if devices are physically connected in a star, data might flow in a ring pattern logically.
 
 | Topology  | Description                                   | Example                          |
 |-----------|-----------------------------------------------|---------------------------------|
@@ -59,6 +51,7 @@ For example, even if devices are physically connected in a star, data might flow
 | **Mesh**  | Devices interconnected directly with many others | Wireless mesh networks           |
 | **Tree**  | Hierarchical topology combining star and bus   | Large organizational networks   |
 
+![](https://github.com/Prabhsimra/New-Prabh/blob/main/Screenshot%20from%202025-07-04%2015-10-45.png)
 
 # What is MAC address:
 >  MAC address (Media Access Control address) is a unique identifier assigned to a network interface card (NIC) for communications at the data link layer of a network.
