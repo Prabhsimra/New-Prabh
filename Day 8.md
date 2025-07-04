@@ -142,3 +142,73 @@ If you're browsing the web from home:
 | **IPv6**     | 128 bits   |
 | **MAC**      | 48 bits    |
 
+
+Here's how to check your **IP address** on both **Linux** and **Windows** systems.
+
+---
+
+## ✅ **How to Check IP Address on Windows**
+
+### 🖥️ Using Command Prompt:
+
+1. Press `Windows + R`, type `cmd`, and hit **Enter**
+2. In the Command Prompt, type:
+
+   ```bash
+   ipconfig
+   ```
+3. Look for the line that says:
+
+   * **IPv4 Address**: This is your private IP (e.g., `192.168.1.100`)
+   * **Default Gateway**: This is usually your router’s IP
+
+---
+
+## 🐧 **How to Check IP Address on Linux**
+
+### 🧾 Using Terminal:
+
+#### For modern systems (uses `ip` command):
+
+```bash
+ip addr show
+```
+
+* Look for `inet` under your active network interface (like `eth0`, `wlan0`, or `enp0s3`)
+* Example output:
+
+  ```
+  inet 192.168.1.42/24
+  ```
+
+#### For older systems:
+
+```bash
+ifconfig
+```
+
+* Note: You may need to install it first:
+
+  ```bash
+  sudo apt install net-tools
+  ```
+
+---
+
+## 🌐 To Check Public IP Address (Both Linux & Windows)
+
+### Use terminal with `curl` (if installed):
+
+```bash
+curl ifconfig.me
+```
+
+or
+
+```bash
+curl ipinfo.io/ip
+```
+
+---
+## image of ip address
+
