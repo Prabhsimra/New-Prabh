@@ -212,3 +212,52 @@ curl ipinfo.io/ip
 ---
 ## image of ip address
 
+# Classes in IP Address
+
+IP addresses (IPv4) are divided into **five classes** — A, B, C, D, and E — based on the first few bits of the address. This classification helps organize networks of different sizes.
+
+---
+
+## IP Address Classes Overview
+
+| Class | First Octet Range (Decimal) | First Bits Pattern | Default Subnet Mask    | Usage                              |
+|-------|-----------------------------|--------------------|-----------------------|----------------------------------|
+| **A** | 1 – 126                     | 0xxxxxxx           | 255.0.0.0             | Large networks (millions of hosts) |
+| **B** | 128 – 191                   | 10xxxxxx           | 255.255.0.0           | Medium-sized networks (thousands of hosts) |
+| **C** | 192 – 223                   | 110xxxxx           | 255.255.255.0         | Small networks (up to 254 hosts)  |
+| **D** | 224 – 239                   | 1110xxxx           | N/A                   | Multicast groups                   |
+| **E** | 240 – 255                   | 1111xxxx           | N/A                   | Experimental/Research             |
+
+---
+
+## Details
+
+### Class A
+- Starts with a **0** bit.
+- Supports **large networks** with up to about 16 million hosts.
+- Example: `10.0.0.1`
+
+### Class B
+- Starts with bits **10**.
+- Supports medium networks with up to ~65,000 hosts.
+- Example: `172.16.0.1`
+
+### Class C
+- Starts with bits **110**.
+- Supports small networks with up to 254 hosts.
+- Example: `192.168.1.1`
+
+### Class D
+- Starts with bits **1110**.
+- Used for **multicasting** (sending data to multiple destinations).
+
+### Class E
+- Starts with bits **1111**.
+- Reserved for future or experimental use.
+
+---
+
+### Note:
+- The addresses `127.x.x.x` are reserved for **loopback** (testing on your own machine).
+- Classful networking is mostly replaced by **CIDR** now, but understanding classes is still useful.
+
