@@ -22,5 +22,17 @@
     <h1>Hello, World!</h1>
     <p>This is my first webpage using HTML.</p>
   </body>
-</html>
+</html>```
 
+## adding color and back  ground
+```<!DOCTYPE html>
+<html>
+<head>
+  <title>first web</title>
+<head>
+<body background="/home/ubuntu/Desktop/HTML/HTML-Blog-Cover (Copy).png">
+<h1> hello </h1>
+<h2> world</h2>
+<h3 style="color:green;text-align:centre;"> 2hello </h3>
+</body>
+</html>```
