@@ -63,9 +63,10 @@ Dual-booting is a popular method to install Linux alongside an existing operatin
 - When the rufus file is open, put the required information which is given below:
 - 
 
-# day 8
-[day 8](https://github.com/Prabhsimra/New-Prabh/blob/main/Day%208.md)
-
 # DAY 7
 **Given by**
 ![File 7 ](https://github.com/Prabhsimra/New-Prabh/blob/main/Day%207.md)
+
+
+# day 8
+[day 8](https://github.com/Prabhsimra/New-Prabh/blob/main/Day%208.md)
